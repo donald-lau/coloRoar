@@ -1,0 +1,42 @@
+{
+  "name": "coloroar",
+  "version": "0.1.0",
+  "description": "A small color select challenge.",
+  "author": "Donald Lau",
+  "scripts": {
+    "lint": "vue-cli-service lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.6.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@vue/cli-plugin-babel": "^4.5.4",
+    "@vue/cli-plugin-eslint": "^4.5.4",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^6.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/donald-lau/coloRoar/issues"
+  },
+  "homepage": "https://github.com/donald-lau/coloRoar#readme",
+  "keywords": [
+    "coloRoar",
+    "color",
+    "roar",
+    "scream"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donald-lau/coloRoar.git"
+  }
+}
